@@ -1,4 +1,4 @@
-require("dotenv").config()
+// require("dotenv").config() Only to be used in dev
 const cors = require("cors")
 const express = require("express")
 const app = express()
